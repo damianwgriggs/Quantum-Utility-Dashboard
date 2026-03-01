@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+qiskit>=1.0.0
+qiskit-ibm-runtime
+qiskit-aer
+scipy
+yfinance
+requests
